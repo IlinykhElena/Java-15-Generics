@@ -68,9 +68,7 @@
                         </goals>
                         <configuration>
                             <excludes>
-                                <exclude>org/example/**/Book.class</exclude>
-                                <exclude>org/example/**/Smartphone.class</exclude>
-                                <exclude>org/example/**/Product.class</exclude>
+                                <exclude>org/example/**/Ticket.class</exclude>
                             </excludes>
                             <rules>
                                 <rule>
